@@ -4,6 +4,8 @@
 
 <p>Here, you'll find my projects that showcase my skills in creating dynamic, user-friendly applications and pushing the boundaries of what's possible in the digital realm. Whether it's a sleek front-end design or a robust full-stack solution, I strive to blend my creativity with technical prowess.</p>
 
+<p>Email for contact: majorpnikolov@abv.bg</p>
+
 <hr>
 <ul>
     <li>🌱 I’m currently learning Next.js </li>
