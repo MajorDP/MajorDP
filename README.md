@@ -23,7 +23,7 @@
     <img align="left" alt="MongoDB" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original.svg" style="margin-right: 10px;"/>
     <img align="left" alt="Supabase" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/supabase/supabase-original.svg"/>
 </p>
-
+<br>
 <hr>
 
 <h2>Connect with me</h2>
