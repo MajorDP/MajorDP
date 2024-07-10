@@ -8,7 +8,7 @@
 
 <h2>Connect with me</h2>
 <p>
-    <a href="www.linkedin.com/in/pavel-nikolov-51a436318"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg"/></a>
+    <a href="https://www.linkedin.com/in/pavel-nikolov-51a436318"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg"/></a>
 </p>
 
 <h2>Languages and Tools</h2>
