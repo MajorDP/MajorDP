@@ -18,6 +18,7 @@ Here, you'll find my projects that showcase my skills in creating dynamic, user-
 <img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/reactrouter/reactrouter-original.svg" data-canonical-src="https://github.com/devicons/devicon/blob/v2.16.0/icons/reactrouter/reactrouter-original.svg" style="max-width: 100%;">
 <img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/socketio/socketio-original.svg" data-canonical-src="https://github.com/devicons/devicon/blob/v2.16.0/icons/socketio/socketio-original.svg" style="max-width: 100%;">
 <img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/supabase/supabase-original.svg" data-canonical-src="https://github.com/devicons/devicon/blob/v2.16.0/icons/supabase/supabase-original.svg" style="max-width: 100%;">
+<img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" data-canonical-src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" style="max-width: 100%;">
 </p>
 
 <!--
