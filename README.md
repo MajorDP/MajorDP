@@ -6,6 +6,11 @@
 
 <hr>
 
+<h2>Connect with me</h2>
+<p>
+    <a href="www.linkedin.com/in/pavel-nikolov-51a436318"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg"/></a>
+</p>
+
 <h2>Languages and Tools</h2>
 <p>
     <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="margin-right: 10px;"/>
