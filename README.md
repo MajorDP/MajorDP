@@ -1,4 +1,4 @@
-##Pavel Nikolov (MajorDP)
+<h1>Pavel Nikolov (MajorDP)</h1>
 
 I'm a 22 year-old, third-year Computer Science student at "St. Cyril and St. Methodius" University of Veliko Tarnovo trying to better himself one step at a time. My expertise spans JavaScript, React, HTML/CSS, and a variety of other cutting-edge technologies. 
 
