@@ -5,17 +5,17 @@
 <p>Here, you'll find my projects that showcase my skills in creating dynamic, user-friendly applications and pushing the boundaries of what's possible in the digital realm. Whether it's a sleek front-end design or a robust full-stack solution, I strive to blend my creativity with technical prowess.</p>
 
 <hr>
-
-<h2>Connect with me</h2>
-<p>
-    <a href="https://www.linkedin.com/in/pavel-nikolov-51a436318"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg"/></a>
-</p>
+<ul>
+    <li>🌱 I’m currently learning Next.js </li>
+    <li>👯 I’m looking to get hired</li>
+</ul>
 
 <h2>Languages and Tools</h2>
 <p>
     <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="margin-right: 10px;"/>
     <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="margin-right: 10px;"/>
     <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="margin-right: 10px;"/>
+    <img align="left" alt="NextJs" width="26px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/nextjs/nextjs-light.svg" style="margin-right: 10px;"/>
     <img align="left" alt="ReactRouter" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/reactrouter/reactrouter-original.svg" style="margin-right: 10px;"/>
     <img align="left" alt="HTML" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" style="margin-right: 10px;"/>
     <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="margin-right: 10px;"/>
@@ -23,8 +23,10 @@
     <img align="left" alt="MongoDB" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original.svg" style="margin-right: 10px;"/>
     <img align="left" alt="Supabase" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/supabase/supabase-original.svg"/>
 </p>
-
-<div style="clear: both;"></div>
+<h2>Connect with me</h2>
+<p>
+    <a href="https://www.linkedin.com/in/pavel-nikolov-51a436318"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg"/></a>
+</p>
 
 <!--
 **MajorDP/MajorDP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
