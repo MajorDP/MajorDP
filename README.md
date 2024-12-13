@@ -8,7 +8,7 @@
 
 <hr>
 <ul>
-    <li>🌱 I’m currently learning Next.js </li>
+    <li>🌱 I’m currently working on a Next.js project </li>
     <li>👯 I’m looking to get hired</li>
 </ul>
 
