@@ -32,6 +32,11 @@
 <p>
     <a href="https://www.linkedin.com/in/pavel-nikolov-51a436318"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg"/></a>
 </p>
+<p>
+    <p>My newest NextJS project can be viewed here:</p>
+    <a href="https://github.com/MajorDP/Ecommerce">Link to repository</a>
+    <a href="https://ecommerce-pi-one-22.vercel.app/">Check out the app (deployed via Vercel)</a>
+</p>
 
 <!--
 **MajorDP/MajorDP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
