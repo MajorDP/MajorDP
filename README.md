@@ -10,7 +10,7 @@
 <ul>
     <li>🌱 Currently working on a Next.js project </li>
     <li><a href="https://github.com/MajorDP/Ecommerce">Link to my newest NextJS project's repository</a></li>
-    <li> <a href="href="https://ecommerce-pi-one-22.vercel.app/"">Check out the app (deployed via Vercel)</a></li>
+    <li> <a href="https://ecommerce-pi-one-22.vercel.app/">Check out the app (deployed via Vercel)</a></li>
     <li>👯 I’m looking to get hired</li>
     
 </ul>
