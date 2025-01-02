@@ -8,7 +8,9 @@
 
 <hr>
 <ul>
-    <li>🌱 I’m currently working on a Next.js project </li>
+    <li>🌱 Currently working on a Next.js project </li>
+    <li><a href="https://github.com/MajorDP/Ecommerce">Link to my newest NextJS project's repository</a></li>
+    <li href="https://ecommerce-pi-one-22.vercel.app/">Check out the app (deployed via Vercel)</li>
     <li>👯 I’m looking to get hired</li>
     
 </ul>
@@ -17,11 +19,7 @@
 <p>
     <a href="https://www.linkedin.com/in/pavel-nikolov-51a436318"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg"/></a>
 </p>
-<p>
-    <p>My newest NextJS project can be viewed here:</p>
-    <a href="https://github.com/MajorDP/Ecommerce">Link to repository</a>
-    <a href="https://ecommerce-pi-one-22.vercel.app/">Check out the app (deployed via Vercel)</a>
-</p>
+
 <h2>Languages and Tools</h2>
 <p>
     <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="margin-right: 10px;"/>
