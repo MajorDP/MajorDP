@@ -1,6 +1,6 @@
 <h1>Pavel Nikolov (MajorDP)</h1>
 
-<p>I'm a 22-year-old, third-year Computer Science student at "St. Cyril and St. Methodius" University of Veliko Tarnovo, constantly striving to better myself one step at a time. My expertise spans JavaScript, React, HTML/CSS, and a variety of other cutting-edge technologies.</p>
+<p>I'm a 22-year-old, fourth-year Computer Science student at "St. Cyril and St. Methodius" University of Veliko Tarnovo, constantly striving to better myself one step at a time. My expertise spans JavaScript, React, HTML/CSS, and a variety of other cutting-edge technologies.</p>
 
 <p>Here, you'll find my projects that showcase my skills in creating dynamic, user-friendly applications and pushing the boundaries of what's possible in the digital realm. Whether it's a sleek front-end design or a robust full-stack solution, I strive to blend my creativity with technical prowess.</p>
 
