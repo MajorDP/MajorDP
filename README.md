@@ -36,28 +36,40 @@
 
 ### 🌟 Featured Projects  
 
-#### Ecommerce App  
-- **Description:** A fully responsive e-commerce application with a sleek UI and blazing-fast performance.  
-- **Tech Stack:** Next.js, Vercel, TailwindCSS  
-- **Links:**  
-  - [GitHub Repository](https://github.com/MajorDP/Ecommerce)  
-  - [Live Demo](https://ecommerce-pi-one-22.vercel.app/)  
+#### 🛒 Ecommerce App  
+A fully responsive e-commerce platform designed for seamless user experience and lightning-fast performance.  
+
+- **💻 Tech Stack:**  
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+- **🌟 Features:**  
+  - Sleek, modern user interface  
+  - Fully responsive design for mobile and desktop  
+  - Fast and reliable deployment via Vercel  
+
+- **🔗 Links:**  
+  - [📂 GitHub Repository](https://github.com/MajorDP/Ecommerce)  
+  - [🌐 Live Demo](https://ecommerce-pi-one-22.vercel.app/)  
 
 ---
-
 ### 📬 Contact Me  
-- **Email:** [majorpnikolov@abv.bg](mailto:majorpnikolov@abv.bg)  
-- **LinkedIn:** [Pavel Nikolov](https://www.linkedin.com/in/pavel-nikolov-51a436318)  
+
+- **📧 Email:** [majorpnikolov@abv.bg](mailto:majorpnikolov@abv.bg)  
+- **🔗 LinkedIn:** [Pavel Nikolov](https://www.linkedin.com/in/pavel-nikolov-51a436318)  
 
 <p align="center">
     <a href="https://www.linkedin.com/in/pavel-nikolov-51a436318" target="_blank">
-        <img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg"/>
+        <img alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" style="margin-right: 15px;"/>
     </a>
     <a href="https://github.com/MajorDP" target="_blank">
-        <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/github.svg"/>
+        <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg" style="margin-right: 15px;"/>
     </a>
-    <a href="mailto:majorpnikolov@abv.bg">
-        <img alt="Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons/icons/gmail.svg"/>
+    <a href="mailto:majorpnikolov@abv.bg" target="_blank">
+        <img alt="Email" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg"/>
     </a>
+</p>
+
 </p>
 
