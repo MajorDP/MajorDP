@@ -1,9 +1,9 @@
 <h1 align="center">Pavel Nikolov</h1>
 
-<p align="center">
+<p align="start">
     <strong>22-year-old, fourth-year Computer Science student at "St. Cyril and St. Methodius" University of Veliko Tarnovo</strong>  
 </p>
-<p align="center">
+<p align="start">
     Passionate about building dynamic, user-friendly applications that push the boundaries of digital possibilities.
 </p>
 
@@ -11,8 +11,10 @@
 
 ### About Me  
 🌟 I specialize in **JavaScript, React, NextJs HTML/CSS**, and other cutting-edge technologies to craft sleek front-end designs and robust full-stack solutions.  
-🌱 Currently working on a **Next.js project** to further enhance my skills.  
-👯 Actively looking for exciting opportunities to join a team and make an impact.  
+
+🌱 Currently working on a **Next.js/React project** to further enhance my skills.  
+
+👯 Actively looking for opportunities to join a team and make an impact.  
 
 ---
 
