@@ -1,9 +1,9 @@
 <h1 align="center">Pavel Nikolov</h1>
 
-<p align="start">
+<p align="center">
     <strong>22-year-old, fourth-year Computer Science student at "St. Cyril and St. Methodius" University of Veliko Tarnovo</strong>  
 </p>
-<p align="start">
+<p align="center">
     Passionate about building dynamic, user-friendly applications that push the boundaries of digital possibilities.
 </p>
 
