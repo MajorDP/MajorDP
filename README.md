@@ -60,8 +60,8 @@ A fully responsive e-commerce admin platform designed for managing products, ord
   - **Fast deployment** with Vercel
 
 - **🔗 Links:**  
-  - [📂 GitHub Repository](https://github.com/MajorDP/Ecommerce)  
-  - [🌐 Live Demo](https://ecommerce-pi-one-22.vercel.app/)
+  - [📂 GitHub Repository](https://github.com/MajorDP/EcommerceAdmin)  
+  - [🌐 Live Demo](https://ecommerce-admin-henna-three.vercel.app/login)
 
 ---
 
