@@ -61,7 +61,7 @@ A fully responsive e-commerce admin platform designed for managing products, ord
 
 - **🔗 Links:**  
   - [📂 GitHub Repository](https://github.com/MajorDP/EcommerceAdmin)  
-  - [🌐 Live Demo](https://ecommerce-admin-henna-three.vercel.app/login)
+  - [🌐 Live Demo](https://ecommerce-admin-henna-three.vercel.app)
 
 ---
 
