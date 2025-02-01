@@ -13,6 +13,7 @@
 🌟 I specialize in **JavaScript, React, NextJs HTML/CSS**, and other cutting-edge technologies to craft sleek front-end designs and robust full-stack solutions.  
 
 🌱 Currently working on a **MERN stack application (MongoDB, Express.js, React, Node.js).**
+
 🌱 Recently worked on a **Next.js/React project** to further enhance my skills.  
 
 👯 Actively looking for opportunities to join a team and make an impact.  
