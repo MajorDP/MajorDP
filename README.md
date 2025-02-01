@@ -4,7 +4,7 @@
     <strong>22-year-old, fourth-year Computer Science student at "St. Cyril and St. Methodius" University of Veliko Tarnovo</strong>  
 </p>
 <p align="center">
-    Passionate about building dynamic, user-friendly applications that push the boundaries of digital possibilities.
+    Passionate about building dynamic, user-friendly applications.
 </p>
 
 ---
@@ -12,7 +12,8 @@
 ### About Me  
 🌟 I specialize in **JavaScript, React, NextJs HTML/CSS**, and other cutting-edge technologies to craft sleek front-end designs and robust full-stack solutions.  
 
-🌱 Currently working on a **Next.js/React project** to further enhance my skills.  
+🌱 Currently working on a **MERN stack application (MongoDB, Express.js, React, Node.js).**
+🌱 Recently worked on a **Next.js/React project** to further enhance my skills.  
 
 👯 Actively looking for opportunities to join a team and make an impact.  
 
