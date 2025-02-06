@@ -85,12 +85,3 @@ A fully responsive e-commerce platform providing a sleek, user-friendly shopping
 
 ---
 
-
-    </a>
-    <a href="mailto:majorpnikolov@abv.bg" target="_blank">
-        <img alt="Email" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg"/>
-    </a>
-</p>
-
-</p>
-
