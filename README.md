@@ -2,8 +2,6 @@
 👨‍🎓 Fourth-year **Computer Science student** at "St. Cyril and St. Methodius" University of Veliko Tarnovo.<br>
 👨‍💻 Focused on **JavaScript, React, Next.js, HTML, CSS** and related technologies.<br>
 
-🌱 **Currently Developing a MERN Stack Application** using MongoDB, Express.js, React, and Node.js.<br>
-🌱 **Recently built a project with Next.js and React.**<br>
 
 👯 Looking for a team to contribute to and grow with.
 
