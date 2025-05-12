@@ -3,8 +3,6 @@
 👨‍💻 Focused on **JavaScript, React, Next.js, HTML, CSS** and related technologies.<br>
 
 
-👯 Looking for a team to contribute to and grow with.
-
 ### 🌐 Contacts:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavel-nikolov-51a436318/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pavelnikm@abv.bg)
