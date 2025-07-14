@@ -1,5 +1,5 @@
 # 💫 About Me
-👨‍🎓 Fourth-year **Computer Science student** at "St. Cyril and St. Methodius" University of Veliko Tarnovo.<br>
+👨‍🎓 **Computer Science graduate** at "St. Cyril and St. Methodius" University of Veliko Tarnovo.<br>
 👨‍💻 Focused on **JavaScript, React, Next.js, HTML, CSS** and related technologies.<br>
 
 
