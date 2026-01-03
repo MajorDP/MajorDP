@@ -1,6 +1,7 @@
 # 💫 About Me
-👨‍🎓 **Computer Science graduate** at "St. Cyril and St. Methodius" University of Veliko Tarnovo.<br>
-👨‍💻 Focused on **JavaScript, React, Next.js, HTML, CSS** and related technologies.<br>
+💻 **Web Developer**.<br>
+🇧🇬 Based in **Bulgaria, Veliko Tarnovo**.<br>
+👨‍🎓 **Computer Science Bachelor** at "St. St. Cyril and Methodius" University of Veliko Tarnovo.<br>
 
 
 ### 🌐 Contacts:
